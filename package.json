@@ -1,0 +1,23 @@
+{
+  "name": "ethtactoe",
+  "version": "0.1.0",
+  "description": "Tic Tac Toe on the Ethereum blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/kujenga/ethtactoe"
+  },
+  "keywords": [
+    "ethereum",
+    "tictactoe",
+    "game"
+  ],
+  "author": "kujenga",
+  "license": "MIT",
+  "dependencies": {
+    "truffle": "^4.1.7"
+  }
+}
