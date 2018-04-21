@@ -4,20 +4,24 @@
   "description": "Tic Tac Toe on the Ethereum blockchain",
   "main": "index.js",
   "scripts": {
-    "test": "truffle test"
+    "compile": "truffle compile",
+    "test": "truffle test",
+    "migrate": "truffle migrate"
   },
   "repository": {
     "type": "git",
     "url": "github.com/kujenga/ethtactoe"
   },
-  "keywords": [
-    "ethereum",
-    "tictactoe",
-    "game"
-  ],
+  "keywords": ["ethereum", "tictactoe", "game"],
   "author": "kujenga",
   "license": "MIT",
   "dependencies": {
+    "eslint-config-prettier": "^2.9.0",
     "truffle": "^4.1.7"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.11.0"
   }
 }
