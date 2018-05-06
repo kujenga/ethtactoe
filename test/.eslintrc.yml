@@ -1,0 +1,10 @@
+extends: '../.eslintrc.yml'
+
+plugins:
+  - mocha
+
+env:
+  mocha: true
+
+globals:
+  contract: false
