@@ -1,6 +1,7 @@
 # Tic Tac Toe on Ethereum
 
-**WIP** experimenting with a dapp to play Tic Tac Toe.
+**WIP** Experimenting with a ÐApp to play Tic Tac Toe.
 
-- http://truffleframework.com/
-- https://solidity.readthedocs.io/en/v0.4.23/solidity-by-example.html
+### References:
+- https://truffleframework.com/
+- https://solidity.readthedocs.io/en/latest/solidity-by-example.html

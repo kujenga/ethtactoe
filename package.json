@@ -22,7 +22,7 @@
   "author": "kujenga",
   "license": "MIT",
   "dependencies": {
-    "truffle": "^4.1.7"
+    "truffle": "^5.0.0-beta.1"
   },
   "devDependencies": {
     "eslint": "^4.19.1",
